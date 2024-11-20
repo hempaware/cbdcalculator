@@ -8,7 +8,7 @@ export const Hero: React.FC = () => {
       <div className="container mx-auto px-4 py-16 md:py-24">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Hemp & CBD Calculators
+            CBD Daily Dosage Calculator & More!
           </h1>
           <p className="text-xl md:text-2xl text-emerald-100 mb-8">
             Professional-grade calculators for precise CBD dosing, hemp measurements, and product formulations
